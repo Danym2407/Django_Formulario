@@ -1,8 +1,13 @@
-<h1> Employee </h1>
+{% extends "base.html" %}
 
-<form action="" method="post">
-    {% csrf_token %}
-    {{form}}
+{% block title %}Employee{% endblock title %}
 
-    <button type="submit"> Submit </button>
-</form>
+{% block content %}
+<h1 class="text-center"> Employee </h1>
+    <form action="" method="post">
+        {% csrf_token %}
+        {{form}}
+        <button type="submit" class="btn btn-primary mt-3"> Submit </button>
+    </form>
+
+{% endblock content %}
