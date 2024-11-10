@@ -1,0 +1,87 @@
+Claro, puedo ayudarte a crear un formulario con 20 preguntas sobre discapacidades en México, enfocado en entender las percepciones, el nivel de empatía y el conocimiento que tienen las personas. A continuación, te presento una estructura que combina preguntas de opción múltiple y de escala de empatía o familiaridad (0-10):
+
+### Formulario de Entrevista sobre Discapacidades en México
+
+#### **Sección 1: Conocimiento General sobre Discapacidad**
+1. **¿Cómo defines la discapacidad?**
+   - a) Una condición física o mental que afecta la vida diaria
+   - b) Una diferencia de habilidades
+   - c) Algo temporal que se puede superar
+   - d) Otro (especifica): ________
+
+2. **¿Consideras que México cuenta con suficientes apoyos para personas con discapacidad?**
+   - a) Sí, completamente
+   - b) Sí, pero hay mucho por mejorar
+   - c) No, los apoyos son insuficientes
+   - d) No tengo información suficiente
+
+3. **¿Qué tanto conoces las leyes en México que protegen los derechos de las personas con discapacidad?** (0: Nada - 10: Mucho)
+
+4. **¿Cuál crees que es la discapacidad más común en México?**
+   - a) Discapacidad visual
+   - b) Discapacidad auditiva
+   - c) Discapacidad motriz
+   - d) Discapacidad intelectual
+   - e) Discapacidad psicosocial
+
+#### **Sección 2: Empatía y Actitudes**
+5. **¿Con cuál de las siguientes discapacidades sientes más empatía?**
+   - a) Visual
+   - b) Auditiva
+   - c) Motriz
+   - d) Intelectual
+   - e) Psicosocial
+   - f) No tengo preferencia
+
+6. **¿Qué tan dispuesto estarías a ofrecer ayuda a una persona con discapacidad en un lugar público?** (0: Nada dispuesto - 10: Muy dispuesto)
+
+7. **¿Sientes incomodidad al interactuar con personas con discapacidad?** (0: Nada - 10: Mucha incomodidad)
+
+8. **¿Qué tan importante consideras que es incluir a las personas con discapacidad en la vida laboral?** (0: Nada importante - 10: Muy importante)
+
+9. **¿Cuál crees que es la principal barrera para la inclusión de personas con discapacidad en México?**
+   - a) Infraestructura y accesibilidad
+   - b) Prejuicios y estigmas
+   - c) Falta de educación inclusiva
+   - d) Falta de políticas públicas adecuadas
+
+10. **¿Conoces a alguna persona con discapacidad en tu vida cotidiana?**
+    - a) Sí, en mi familia
+    - b) Sí, en mi círculo de amigos o trabajo
+    - c) Sí, en mi comunidad o entorno
+    - d) No, no conozco a nadie personalmente
+
+#### **Sección 3: Conocimientos Específicos y Opiniones sobre Apoyos**
+11. **¿Consideras que los espacios públicos en México son accesibles para personas con discapacidad?** (0: Nada accesibles - 10: Totalmente accesibles)
+
+12. **¿Qué tanto crees que el sistema educativo en México está adaptado para personas con discapacidad?** (0: Nada adaptado - 10: Totalmente adaptado)
+
+13. **¿Qué tan importante crees que es enseñar empatía y respeto hacia personas con discapacidad en las escuelas?** (0: Nada importante - 10: Muy importante)
+
+14. **¿Conoces alguna organización en México que apoye a personas con discapacidad?**
+    - a) Sí, conozco varias
+    - b) Sí, conozco una
+    - c) No, no conozco ninguna
+
+15. **¿Consideras que las políticas de salud en México brindan una atención adecuada a personas con discapacidad?** (0: Nada adecuado - 10: Totalmente adecuado)
+
+#### **Sección 4: Opiniones Personales sobre Inclusión y Accesibilidad**
+16. **¿Qué tan importante crees que es implementar tecnologías de apoyo para personas con discapacidad en el trabajo?** (0: Nada importante - 10: Muy importante)
+
+17. **¿Crees que la inclusión de personas con discapacidad en medios de comunicación (TV, películas) ha mejorado en México en los últimos años?**
+    - a) Sí, ha mejorado mucho
+    - b) Sí, ha mejorado un poco
+    - c) No ha habido cambio
+    - d) Ha empeorado
+
+18. **¿Qué tan común crees que es la discriminación hacia personas con discapacidad en México?** (0: Nada común - 10: Muy común)
+
+19. **¿Consideras que el entorno social en México es consciente y empático hacia las personas con discapacidad?** (0: Nada empático - 10: Muy empático)
+
+20. **¿Crees que sería beneficioso implementar más campañas de concientización sobre discapacidades en México?**
+    - a) Sí, sería muy beneficioso
+    - b) Sí, sería beneficioso, pero no prioritario
+    - c) No, no es necesario
+    - d) Otro (especifica): ________
+
+Estas preguntas te permitirán recopilar una perspectiva detallada sobre el nivel de empatía, conocimiento y actitudes de las personas hacia las discapacidades en México.
